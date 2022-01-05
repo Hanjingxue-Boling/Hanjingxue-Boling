@@ -6,6 +6,10 @@ I use Win10 on a daily basis and use Fedora Linux at the same time (Only insider
 
 Now, I am mainly translating openSUSE news and OpenBSD community documents.
 
+>Additional Notes:
+>
+>You can call me Hanjingxue Boling, Hanjingxue, Boling H. or Boling Hanjingxue. the order doesn't matter because the virtual name doesn't include the last name.
+
 ## Related accounts:
 
 - [Aui - openSUSE 中文论坛](https://forum.suse.org.cn/u/aui/summary)
