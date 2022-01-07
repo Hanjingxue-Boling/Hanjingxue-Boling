@@ -4,7 +4,7 @@ I am Hanjingxue Boling (寒晶雪•铂灵), one of the Chinese translators of o
 
 I use Win10 on a daily basis and use Fedora Linux at the same time (Only insider [vbox](https://www.virtualbox.org/)). At the same time, I am not a developer.
 
-Now, I am mainly translating openSUSE news and OpenBSD community documents.
+Now, I am mainly translating [openSUSE news](https://suse.org.cn/) and [OpenBSD community documents](https://openbsd-zh-association.github.io/docs-openbsd-zh/).
 
 >Additional Notes:
 >
