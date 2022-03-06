@@ -16,3 +16,4 @@ Now, I am mainly translating [openSUSE news](https://suse.org.cn/).
 - [Aua0880 - openSUSE Wiki](https://zh.opensuse.org/User:Aua0880)
 - [bh - AskFedora](https://ask.fedoraproject.org/u/bh)
 - [My Blog](https://hanjingxue-boling.github.io/Whiteboard/)
+- bolingh#outlook.com
