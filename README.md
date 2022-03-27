@@ -2,7 +2,7 @@
 
 I am Hanjingxue Boling (寒晶雪•铂灵), one of the Chinese translators of openSUSE news, and all articles are published under [CC-BY-SA 3.0/4.0](https://creativecommons.org/licenses/by-sa/4.0/) license if not otherwise stated.
 
-I use Windows 10 on a daily basis and use Fedora Linux at the same time (Only insider [virtual machine](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html)). I am also not a developer.
+I use both [openSUSE Tumbleweed](https://www.opensuse.org/#Tumbleweed) and Windows 10.I am also not a developer.
 
 Now, I am mainly translating [openSUSE news](https://suse.org.cn/).
 
