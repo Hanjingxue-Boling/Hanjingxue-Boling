@@ -8,6 +8,8 @@ I'm Hanjingxue Boling, one of the translators of the openSUSE Linux Chinese wiki
 
 My main business is translating [openSUSE community news](https://suse.org.cn/). Recently worked on another [documentation project](https://github.com/linuxhitchhiker/THGLG).
 
+My personal documentation site and blog are detailed [here](https://hanjingxue-boling.github.io/Whiteboard/).
+
 ## Related accounts:
 
 - [Aui - openSUSE 中文论坛](https://forum.suse.org.cn/u/aui/summary)
