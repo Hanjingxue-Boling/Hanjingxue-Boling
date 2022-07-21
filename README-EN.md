@@ -6,7 +6,7 @@ I'm Hanjingxue Boling, one of the translators of the openSUSE Linux Chinese wiki
 
 ## Main business
 
-My main business is translating [openSUSE community news](https://suse.org.cn/). Recently worked on another [documentation project](https://github.com/linuxhitchhiker/THGLG).
+My main business is translating [openSUSE community news](https://suse.org.cn/). 
 
 My personal documentation site and blog are detailed [here](https://hanjingxue-boling.github.io/Whiteboard/).
 
