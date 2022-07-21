@@ -8,7 +8,7 @@
 
 ## 主要事务
 
-我主要的事务是翻译 [openSUSE 社区新闻](https://suse.org.cn/)。最近在参与编写另一个[文档项目](https://github.com/linuxhitchhiker/THGLG)。
+我主要的事务是翻译 [openSUSE 社区新闻](https://suse.org.cn/)。
 
 我的个人文档站兼博客详见[此处](https://hanjingxue-boling.github.io/Whiteboard/)。
 
